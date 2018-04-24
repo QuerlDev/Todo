@@ -2,39 +2,39 @@
 Todo do list:
 
 Spec:
-[x] Coin Name 
-[x] Coin Tricker
-[x] Coin Algo
-[x] Coin Logo
-[ ] Coin Supply
-[ ] Block Time
-[ ] Block rewards
+- [x] Coin Name 
+- [x] Coin Tricker
+- [x] Coin Algo
+- [x] Coin Logo
+- [ ] Coin Supply
+- [ ] Block Time
+- [ ] Block rewards
 
 Tools:
-[ ] Explorer
+- [ ] Explorer
 
 Wallets:
-[ ] Android Wallet
-[ ] QT (win/linux)
-[ ] Daemon (win/linux)
-[ ] Paper Wallet
-[ ] Icons Wallet Designer
+- [ ] Android Wallet
+- [ ] QT (win/linux)
+- [ ] Daemon (win/linux)
+- [ ] Paper Wallet
+- [ ] Icons Wallet Designer
 
 Social:
-[ ] Site
-[ ] Forum Thread
-[x] Discord
-[x] Telegram
-[x] Twitter
+- [ ] Site
+- [ ] Forum Thread
+- [x] Discord
+- [x] Telegram
+- [x] Twitter
 
 Infos:
-[ ] Whitepaper
-[ ] Masternode Guide
+- [ ] Whitepaper
+- [ ] Masternode Guide
 
 Dev
-[ ] Building Test Coin
-[ ] Beta Test
-[ ] Alpha Test
-[ ] Rebiuld Main Coin
+- [ ] Building Test Coin
+- [ ] Beta Test
+- [ ] Alpha Test
+- [ ] Rebiuld Main Coin
 
 W.I.P
