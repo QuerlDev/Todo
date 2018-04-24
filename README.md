@@ -1,6 +1,4 @@
-# Todo
-Todo do list:
-
+# MAIN COIN
 Spec:
 - [x] Coin Name :heavy_check_mark:
 - [x] Coin Tricker :heavy_check_mark:
@@ -8,7 +6,7 @@ Spec:
 - [x] Coin Logo :heavy_check_mark:
 - [ ] Coin Supply
 - [ ] Block Time
-- [ ] Block rewards
+- [ ] Block rewards (POW/POS)
 
 Tools:
 - [ ] Explorer
@@ -31,10 +29,16 @@ Infos:
 - [ ] Whitepaper
 - [ ] Masternode Guide
 
-Dev
+# TEST COIN
+- [ ] Masternodes Collateral Changes
+- [ ] Phase Rewards System (POW/POS)
+- [ ] Algo Implementation
+- [ ] Block Time
+
 - [ ] Building Test Coin
 - [ ] Beta Test
 - [ ] Alpha Test
 - [ ] Rebiuld Main Coin
+
 
 W.I.P
