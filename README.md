@@ -2,10 +2,10 @@
 Todo do list:
 
 Spec:
-- [x] Coin Name 
-- [x] Coin Tricker
-- [x] Coin Algo
-- [x] Coin Logo
+- [x] Coin Name :heavy_check_mark:
+- [x] Coin Tricker :heavy_check_mark:
+- [x] Coin Algo :heavy_check_mark:
+- [x] Coin Logo :heavy_check_mark:
 - [ ] Coin Supply
 - [ ] Block Time
 - [ ] Block rewards
@@ -23,9 +23,9 @@ Wallets:
 Social:
 - [ ] Site
 - [ ] Forum Thread
-- [x] Discord
-- [x] Telegram
-- [x] Twitter
+- [x] Discord :heavy_check_mark:
+- [x] Telegram :heavy_check_mark:
+- [x] Twitter :heavy_check_mark:
 
 Infos:
 - [ ] Whitepaper
