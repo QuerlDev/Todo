@@ -7,6 +7,7 @@ Spec:
 - [ ] Coin Supply
 - [ ] Block Time
 - [ ] Block rewards (POW/POS)
+- [ ] Masternode Collateral
 
 Tools:
 - [ ] Explorer
@@ -28,14 +29,21 @@ Social:
 Infos:
 - [ ] Whitepaper
 - [ ] Masternode Guide
+- [ ] Masternode Install Script
+- [ ] Bounty Program
+
+Listing:
+- [ ] Exchanges Fees
+- [ ] Masternodes Trackers Fees
 
 # TEST COIN
+To do:
 - [ ] Masternodes Collateral Changes
 - [ ] Phase Rewards System (POW/POS)
 - [ ] Algo Implementation
 - [ ] Block Time
-
 - [ ] Building Test Coin
+- [ ] Script Build Masternode
 - [ ] Beta Test
 - [ ] Alpha Test
 - [ ] Rebiuld Main Coin
